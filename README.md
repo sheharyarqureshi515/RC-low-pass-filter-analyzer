@@ -65,7 +65,7 @@ The calculated cutoff frequency is approximately:
 img/Gain Response (RC-Lowpass Filter).png
 
 ## Bode Magnitude Plot
-img/Bode Magnitude (RC-Lowpass Filter).png
+![Bode Magnitude Plot](img/Bode Magnitude (RC-Lowpass Filter).png)
 
 ## Bode Phase Plot
 img/Bode Phase (RC-Lowpass Filter).png
