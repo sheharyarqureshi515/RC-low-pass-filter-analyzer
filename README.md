@@ -56,3 +56,7 @@ For:
 The calculated cutoff frequency is approximately:
 
 159.15 Hz
+
+## Gain Response
+<img width="640" height="480" alt="Gain Response (RC-Lowpass Filter)" src="https://github.com/user-attachments/assets/c691811e-99eb-4498-a3a8-9c586123f1e1" />
+
