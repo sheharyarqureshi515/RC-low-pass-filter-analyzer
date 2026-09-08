@@ -64,4 +64,5 @@ The calculated cutoff frequency is approximately:
 <img width="640" height="480" alt="Bode Magnitude (RC-Lowpass Filter)" src="https://github.com/user-attachments/assets/ba22850b-d7ce-4829-ba52-1823e413c271" />
 
 ## Bode Phase Plot
-<img width="1920" height="967" alt="Bode Phase (RC-Lowpass Filter)" src="https://github.com/user-attachments/assets/17bc5dc8-1ccd-4696-a5ce-850ee9525c0f" />
+<img width="640" height="480" alt="Bode Phase (RC-Lowpass Filter)" src="https://github.com/user-attachments/assets/b9efa309-d1a4-4d9d-b887-5acbf80a7bb9" />
+
