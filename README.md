@@ -27,7 +27,7 @@ A Python-based analyzer for the frequency response of a first-order RC low-pass 
 
 The cutoff frequency of an RC low-pass filter is:
 
-fc = 1 / (2πRC)
+f<sub>c</sup> = 1 / (2πRC)
 
 The magnitude response is:
 
