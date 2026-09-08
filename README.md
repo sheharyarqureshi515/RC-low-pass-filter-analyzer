@@ -4,7 +4,8 @@ A Python-based analyzer for the frequency response of a first-order RC low-pass 
 
 ## Circuit Schematic
 
-![RC Low-Pass Filter Schematic](images/rc_filter_schematic.png)
+![RC Low-Pass Filter Schematic](img/rc_filter_schematic.png)
+
 
 ## Features
 
@@ -62,11 +63,13 @@ The calculated cutoff frequency is approximately:
 159.15 Hz
 
 ## Gain Response
-img/Gain Response (RC-Lowpass Filter).png
+
+![Gain Response](images/gain_response.png)
 
 ## Bode Magnitude Plot
-![Bode Magnitude Plot](img/Bode Magnitude (RC-Lowpass Filter).png)
+
+![Bode Magnitude Plot](images/bode_magnitude.png)
 
 ## Bode Phase Plot
-img/Bode Phase (RC-Lowpass Filter).png
 
+![Bode Phase Plot](images/bode_phase.png)
