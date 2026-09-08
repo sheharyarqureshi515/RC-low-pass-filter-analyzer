@@ -3,6 +3,7 @@
 A Python-based analyzer for the frequency response of a first-order RC low-pass filter.
 
 ## Circuit Schematic
+
 <img width="990" height="632" alt="image" src="https://github.com/user-attachments/assets/eaec59dd-6c5f-496d-9e2f-4715b6259d69" />
 
 ## Features
