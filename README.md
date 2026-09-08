@@ -39,7 +39,9 @@ $$
 
 The phase response is:
 
-φ(f) = -tan⁻¹(2πfRC)
+$$
+\phi(f) = -\tan^{-1}(2\pi fRC)
+$$
 
 At the cutoff frequency:
 
