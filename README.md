@@ -40,7 +40,7 @@ The phase response is:
 At the cutoff frequency:
 
 - Gain ≈ 0.707
-- Magnitude ≈ -3.01 dB
+- Magnitude ≈ -3 dB
 - Phase = -45°
 
 ## Technologies
