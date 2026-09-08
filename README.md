@@ -6,8 +6,6 @@ A Python-based analyzer for the frequency response of a first-order RC low-pass 
 
 ![RC Low-Pass Filter Schematic](images/rc_filter_schematic.png)
 
-[Download/View the original DWF schematic](schematic/rc_low_pass_filter.dwf)
-
 ## Features
 
 - Accepts user-defined resistance, capacitance, frequency, and input voltage
