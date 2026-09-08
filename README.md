@@ -60,3 +60,8 @@ The calculated cutoff frequency is approximately:
 ## Gain Response
 <img width="640" height="480" alt="Gain Response (RC-Lowpass Filter)" src="https://github.com/user-attachments/assets/c691811e-99eb-4498-a3a8-9c586123f1e1" />
 
+## Bode Magnitude Plot
+<img width="640" height="480" alt="Bode Magnitude (RC-Lowpass Filter)" src="https://github.com/user-attachments/assets/ba22850b-d7ce-4829-ba52-1823e413c271" />
+
+## Bode Phase Plot
+<img width="1920" height="967" alt="Bode Phase (RC-Lowpass Filter)" src="https://github.com/user-attachments/assets/17bc5dc8-1ccd-4696-a5ce-850ee9525c0f" />
