@@ -4,7 +4,7 @@ A Python-based analyzer for the frequency response of a first-order RC low-pass 
 
 ## Circuit Schematic
 
-<img width="990" height="632" alt="image" src="https://github.com/user-attachments/assets/eaec59dd-6c5f-496d-9e2f-4715b6259d69" />
+![RC Low-Pass Filter Schematic](images/rc_filter_schematic.png)
 
 ## Features
 
