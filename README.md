@@ -62,11 +62,11 @@ The calculated cutoff frequency is approximately:
 159.15 Hz
 
 ## Gain Response
-<img width="640" height="480" alt="Gain Response (RC-Lowpass Filter)" src="https://github.com/user-attachments/assets/c691811e-99eb-4498-a3a8-9c586123f1e1" />
+img/Gain Response (RC-Lowpass Filter).png
 
 ## Bode Magnitude Plot
-<img width="640" height="480" alt="Bode Magnitude (RC-Lowpass Filter)" src="https://github.com/user-attachments/assets/ba22850b-d7ce-4829-ba52-1823e413c271" />
+img/Bode Magnitude (RC-Lowpass Filter).png
 
 ## Bode Phase Plot
-<img width="640" height="480" alt="Bode Phase (RC-Lowpass Filter)" src="https://github.com/user-attachments/assets/b9efa309-d1a4-4d9d-b887-5acbf80a7bb9" />
+img/Bode Phase (RC-Lowpass Filter).png
 
