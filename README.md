@@ -40,7 +40,7 @@ $$
 The phase response is:
 
 $$
-\phi(f) = -\tan^{-1}(2\pi fRC)
+\phi(f) = -\arctan(2\pi fRC)
 $$
 
 At the cutoff frequency:
